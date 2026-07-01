@@ -17,3 +17,5 @@ __pycache__/
 # 取得データ・学習済みモデル
 data/
 models/
+data/users.json
+data/users.tmp
